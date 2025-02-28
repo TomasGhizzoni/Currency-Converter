@@ -69,3 +69,7 @@ Clean and intuitive UI
 Accessible design
 Consistent color scheme
 
+
+## 🎥 Demo
+
+[Watch Demo Video](https://www.youtube.com/watch?v=YpLuJxmSSnk)
