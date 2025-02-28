@@ -46,24 +46,24 @@ npm install
 npm start
 ```
 
-### 🔍 Project Features
-# Currency Conversion
+# 🔍 Project Features
+### Currency Conversion
 Select source and target currencies
 Real-time exchange rates
 Instant calculation
-# Conversion History
+### Conversion History
 Track recent conversions
 Clear history functionality
 Persistent storage using Local Storage
-# Theme Toggle
+### Theme Toggle
 Switch between dark and light modes
 Improved user experience
 Responsive to system preferences
-# 🌐 API Integration
+### 🌐 API Integration
 Utilizes reliable currency exchange API
 Fetches real-time exchange rates
 Handles API errors gracefully
-# 🎨 Design Principles
+### 🎨 Design Principles
 Mobile-first approach
 Clean and intuitive UI
 Accessible design
