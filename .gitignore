@@ -1,0 +1,25 @@
+# Ignorar node_modules (evita subir paquetes innecesarios)
+node_modules/
+
+# Ignorar dependencias de Next.js
+.next/
+out/
+
+# Ignorar archivos de entorno (contienen credenciales sensibles)
+.env
+.env.local
+.env.development
+.env.production
+
+# Ignorar logs y archivos generados
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignorar compilaciones de TypeScript (si usas TS)
+dist/
+*.tsbuildinfo
+
+# Ignorar archivos del sistema de Windows
+Thumbs.db
+.DS_Store
